@@ -1,0 +1,13 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+catboost
+xgboost
+Flask
+mysql-connector-python  # connecting database mysql
+pymysql                 # connecting database mysql
+python-dotenv           # Reading the .env file
+cryptography
+#-e .
